@@ -1,0 +1,21 @@
+h1 {
+  color: #0B032D;
+  font-family: 'Modak', cursive;
+  font-size: 42px;
+}
+
+a {
+  text-align: center;
+  align-content: center;
+  font-size: 22px;
+  font-family: 'Raleway', sans-serif;
+  color: #0B032D;
+}
+
+img {
+  align-items: center;
+}
+
+li {
+  align-content: center;
+}
